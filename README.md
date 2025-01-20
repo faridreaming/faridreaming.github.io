@@ -1,7 +1,5 @@
 # final-project-codify-front-end
 
-This is my website portfolio which is the final project from Codify Front-End. This website was inspired by: [https://tfkhdyt.my.id/](https://tfkhdyt.my.id/)
-
 ## Made with:
 
 - HTML

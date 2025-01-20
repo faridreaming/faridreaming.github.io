@@ -92,3 +92,4 @@ document.addEventListener("DOMContentLoaded", () => {
   const isDarkMode = localStorage.getItem("dark-mode") === "true";
   setDarkMode(isDarkMode);
 });
+document.getElementById("copyright-year").innerText = new Date().getFullYear();
